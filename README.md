@@ -1,2 +1,2 @@
-# NMT Assignment
-Note: Heavily inspired by the https://github.com/pcyin/pytorch_nmt repository
+# Stanford SC224n Assignment4
+Neural Machine Translation
